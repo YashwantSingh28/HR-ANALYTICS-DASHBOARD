@@ -8,4 +8,4 @@ Help an Organization to improve employee performance and improve employee retent
 * Implemented data-driven forecasting models to predict future sales trends and identify opportunities for maximizing profitability
 * Collaborated closely with cross-functional teams, including sales, marketing, and operations, to align data analytics initiatives with business objectives
 # Skills:-
-Microsoft Excel, Microsoft Power BI, Data Analysis, Forecasting, KPI Dashboards, Microsoft Power Query, DAX Functions
+Microsoft Excel, Microsoft Power BI, Data Analysis, KPI Dashboards, DAX Functions
